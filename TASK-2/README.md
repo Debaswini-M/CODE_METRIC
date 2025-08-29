@@ -72,7 +72,7 @@ This project requires the following Python libraries:
 ---
 
 ## 👩🏻‍💻 Author
- **Debaswini**
+`Debaswini`
 
 ---
 
