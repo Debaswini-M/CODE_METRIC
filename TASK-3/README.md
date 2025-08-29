@@ -54,7 +54,12 @@ The dataset used is **WineQT.csv**, which contains physicochemical features such
 
 ---
 
-## 📷 Sample Outputs  
+## 📷 Sample Outputs 
+
+
+### Model Comparison Plot
+<img width="841" height="413" alt="image" src="https://github.com/user-attachments/assets/184f405d-f879-437c-bb23-0bf50ebc2e7a" />
+
 
 ### ROC-AUC Curves  
 <img width="851" height="390" alt="image" src="https://github.com/user-attachments/assets/48797c4d-64bf-4f15-9981-872783adb3bd" />
