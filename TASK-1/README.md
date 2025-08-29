@@ -44,13 +44,23 @@ The goal of this task is to build a machine learning model to classify SMS messa
   - Accuracy: **98.21%**
   - F1 Score: **98.19%**  
 
-Other models (Logistic Regression, Naive Bayes) also performed very well (>97% accuracy).  
+Other models (Logistic Regression, Naive Bayes) also performed very well (>97% accuracy).
+
+
+### 📊 Model Performance Comparison Plot
+<img width="849" height="429" alt="image" src="https://github.com/user-attachments/assets/b52d3137-7f3c-4c5a-a9e5-0142c13f65c5" />
+
+
 
 ### 🔍 ROC-AUC Curve
-All tuned models achieved **high AUC values**, confirming strong classification ability.  
+<img width="857" height="472" alt="image" src="https://github.com/user-attachments/assets/c6bc9803-9540-4517-a7af-9b9430bde271" />
+  
 
 ### 🔲 Confusion Matrix
-The SVC model shows **very few misclassifications**, making it the most reliable.  
+<img width="444" height="473" alt="image" src="https://github.com/user-attachments/assets/0198d6ba-b41c-47f6-93ae-e98bc2d3e3d6" />
+
+
+---
 
 ## ⚙️ Tools & Libraries Used
 - **Language:** Python 3  
@@ -62,8 +72,8 @@ The SVC model shows **very few misclassifications**, making it the most reliable
 
 
 ---
-
-## 👩🏻‍💻 Author
-**Debaswini**
-
+## 👩🏻‍💻Author
+`Debaswini`
 ---
+
+
